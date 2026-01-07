@@ -33,7 +33,7 @@ Mình thích khám phá dữ liệu, tự động hóa quy trình, và xây dự
 
 ## 📈 Thống kê GitHub
 
-![Hoài Nam GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Hoài Nam GitHub stats](https://github-readme-stats.vercel.app/api?username=tetsde&show_icons=true&theme=radical)  
 
 ---
 
