@@ -1,45 +1,118 @@
-# Xin chào 👋, mình là Tống Phước Hoài Nam
+<h1 align="center">✨ Tống Phước Hoài Nam</h1>
+<h3 align="center">🚀 Data Analyst | Python Developer | AI Enthusiast</h3>
 
-Mình là **Data Analyst & Python Developer**, đam mê biến dữ liệu thô thành những insight giá trị.  
-Mình thích khám phá dữ liệu, tự động hóa quy trình, và xây dựng các giải pháp phân tích dữ liệu thực tế.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+data+into+insights;Building+AI-powered+solutions;Always+learning+new+things&center=true&width=500&height=45">
+</p>
 
----
-
-## 🛠️ Công nghệ mình sử dụng
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-77AADD?style=for-the-badge&logo=seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF9900?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tetsde&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 📊 Những gì mình làm
+## 👋 About Me  
 
-- Làm sạch dữ liệu, xử lý và trực quan hóa  
-- Phân tích dữ liệu khám phá (EDA) và mô hình thống kê  
-- Machine Learning để dự đoán và đưa ra insight  
-- Tự động hóa tác vụ lặp đi lặp lại & web scraping  
-- Xây dựng dự án demo và portfolio cá nhân  
+- 🎓 Google Student Ambassador 2026  
+- 💡 Passionate about Data, AI & Automation  
+- ⚡ Strong self-learning mindset & fast adaptation to new tech  
+- 🔍 Focus on turning data → insights → real impact  
 
----
-
-## 📈 Thống kê GitHub
-
-![Hoài Nam GitHub stats](https://github-readme-stats.vercel.app/api?username=tetsde&show_icons=true&theme=radical)  
+> *"Data is only valuable when it drives decisions."*
 
 ---
 
-## 🔗 Kết nối với mình
+## 🧠 Tech Stack  
 
-- [LinkedIn](https://www.linkedin.com/in/tongphuochoainam2606/)  
-- [Email](mailto:tphn26.work@gmail.com)  
-- [GitHub](https://github.com/tetsde)  
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,postgres,sqlite,git,github" />
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn" />
+<br/>
+
+</p>
+
+**Data & AI:**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`  
+`Prompt Engineering` `OpenAI API` `Gemini API`  
+
+**Automation & Tools:**  
+`Selenium` `BeautifulSoup` `n8n` `Make`  
+
+**Productivity:**  
+`Notion` `Obsidian` `NotebookLM` `Copilot`  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🔥 YouTube Sentiment Analysis  
+> End-to-end ML pipeline for Vietnamese sentiment analysis  
+
+- 📊 23,000+ comments processed  
+- 🤖 MultinomialNB model (**85.31% accuracy**)  
+- 🧠 Custom Vietnamese NLP preprocessing  
+- 📈 Automated visualization (WordCloud, Charts)  
+
+🔗 https://github.com/tetsde/YoutubeSentimentAnalysis  
+
+---
+
+### 🚗 Traffic Analysis (I-94)  
+> EDA + predictive indicators for congestion  
+
+- 🧹 Data cleaning & preprocessing  
+- 🧠 Feature engineering (time, weather, seasonality)  
+- 📊 Insight extraction for traffic patterns  
+- 🔮 Predictive framework for congestion  
+
+🔗 https://github.com/tetsde/I94_Traffic_Analysis  
+
+---
+
+## 🏆 Achievements  
+
+🥇 **Google Student Ambassador 2026**  
+- Top 8.5% (600/7000+ candidates)  
+- AI community leader & innovation advocate  
+
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tetsde&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tetsde&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tongphuochoainam2606/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:tphn26.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/tetsde">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Mode  
+
+```python
+class Nam:
+    def __init__(self):
+        self.skills = ["Data", "AI", "Automation"]
+    
+    def daily_routine(self):
+        while True:
+            self.learn()
+            self.build()
+            self.level_up()
