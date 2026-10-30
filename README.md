@@ -1,97 +1,106 @@
-# Tong Phuoc Hoai Nam
+# Hoai Nam
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=Hoai%20Nam&fontSize=44&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <sub>AI ENGINEER · PYTHON DEVELOPER · DA NANG, VIETNAM</sub>
+</p>
+
+<h1 align="center">Building reliable AI products.</h1>
+
+<p align="center">
+  Exploring how AI can become useful, reliable, and practical in real-world applications.
 </p>
 
 <p align="center">
-  <a href="https://bynam.site">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/tphn26/">LinkedIn</a> ·
-  <a href="https://app.notion.com/p/tphn26/Building-Reliable-AI-Products-dc2590f7e19e83f499150179dedb4837?source=copy_link">Thoughts & Research</a> ·
+  <a href="https://bynam.site">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/tphn26/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://tphn26.notion.site/Building-Reliable-AI-Products-dc2590f7e19e83f499150179dedb4837">Thought Lab</a>
+  &nbsp;·&nbsp;
   <a href="mailto:tphn26.work@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=AI+Engineer+%C2%B7+Python+Developer;Exploring+LLMs%2C+RAG+%26+AI+Agents;Building+reliable+AI+applications" alt="Typing SVG" />
-</p>
-
 ---
 
-### About
+### 01 / About
 
-I'm an AI Engineer and Python Developer based in Da Nang, Vietnam.
+I'm an aspiring AI Engineer based in Da Nang, Vietnam.
 
-I build AI applications and backend systems, focusing on LLM applications, retrieval-augmented generation, and agent workflows.
+I work on AI applications and backend systems, focusing on LLMs, retrieval-augmented generation, and agent workflows.
 
-Currently exploring how to make AI systems more reliable, observable, and useful in real-world applications.
+I enjoy researching, experimenting, and turning ideas into working solutions. Beyond development, I also take part in AI training and knowledge-sharing activities within the student community.
 
-### Tech Stack
+### 02 / What I Work With
 
-**Languages & Frameworks**
+**AI & Language Models**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,tailwind" />
-</p>
+`Python` · `LangChain` · `LangGraph` · `Gemini API` · `RAG` · `ChromaDB` · `PhoBERT`
 
-**AI / LLM**
-
-`LangChain` · `LangGraph` · `Gemini API` · `RAG` · `ChromaDB` · `PhoBERT`
-
-**Backend / Infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,docker,linux,git,github" />
-</p>
+**Backend & Infrastructure**
 
 `FastAPI` · `MongoDB` · `Docker` · `Railway`
 
----
+**Other Tools**
 
-### Selected Projects
+`React` · `Vite` · `Tailwind CSS` · `Git`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mongodb,docker,react,vite,tailwind,git&theme=light" />
+</p>
+
+### 03 / Selected Work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>Mitos</h3>
+    <td width="50%" valign="top">
+      <strong>Mitos</strong>
+      <br/>
       <sub>VIETNAMESE RAG CHATBOT</sub>
-      <p>Intent routing with PhoBERT, vector search with ChromaDB, and Gemini-powered responses.</p>
+      <br/><br/>
+      Intent routing with PhoBERT, vector search with ChromaDB, and Gemini-powered responses.
+      <br/><br/>
+      <sub>Python · ChromaDB · Gemini</sub>
     </td>
-    <td width="50%">
-      <h3>Macstore Agentic</h3>
+    <td width="50%" valign="top">
+      <strong>Macstore Agentic</strong>
+      <br/>
       <sub>AI CUSTOMER SUPPORT</sub>
-      <p>Tool-calling agent built with LangGraph, FastAPI metrics, and latency and token-cost tracking.</p>
+      <br/><br/>
+      Tool-calling agent built with LangGraph, FastAPI metrics, and latency and token-cost tracking.
+      <br/><br/>
+      <sub>LangGraph · FastAPI · Docker</sub>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3>SentiVision</h3>
+    <td colspan="2" valign="top">
+      <strong>SentiVision</strong>
+      <br/>
       <sub>VIETNAMESE SENTIMENT ANALYSIS</sub>
-      <p>YouTube comment analysis with real-time SSE streaming, JWT authentication, and rate limiting.</p>
+      <br/><br/>
+      YouTube comment analysis with real-time SSE streaming, JWT authentication, and rate limiting.
+      <br/><br/>
+      <sub>Python · FastAPI · SSE</sub>
     </td>
   </tr>
 </table>
 
----
-
-### GitHub Activity
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tetsde&show_icons=true&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&icon_color=808080&include_all_commits=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsde&layout=compact&hide_border=true&bg_color=00000000&title_color=808080&text_color=808080&hide_title=true" />
+  <a href="https://github.com/tetsde?tab=repositories">Explore more projects →</a>
 </p>
 
+### 04 / GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tetsde&hide_border=true&background=00000000&stroke=808080&ring=808080&fire=808080&currStreakLabel=808080&sideLabels=808080&dates=808080" width="70%" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=tetsde&show_icons=true&hide_border=true&bg_color=EAF1F5&title_color=151515&text_color=777873&icon_color=151515&include_all_commits=true&hide_title=true" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetsde&layout=compact&hide_border=true&bg_color=EAF1F5&title_color=151515&text_color=777873&hide_title=true" />
 </p>
 
----
+### 05 / Beyond Code
 
-### Beyond Code
-
-I also document ideas, technical explorations, and lessons learned while building AI products.
+I also enjoy sharing knowledge, exploring Google's AI initiatives, and helping students discover practical ways to work with AI.
 
 <p align="center">
-  <a href="https://app.notion.com/p/tphn26/Building-Reliable-AI-Products-dc2590f7e19e83f499150179dedb4837?source=copy_link">
+  <a href="https://tphn26.notion.site/Building-Reliable-AI-Products-dc2590f7e19e83f499150179dedb4837">
     Building Reliable AI Products ↗
   </a>
 </p>
@@ -99,5 +108,5 @@ I also document ideas, technical explorations, and lessons learned while buildin
 ---
 
 <p align="center">
-  <sub>Building, learning, and shipping.</sub>
+  <sub>Ideas, experiments, and things worth building.</sub>
 </p>
